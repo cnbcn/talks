@@ -52,8 +52,10 @@ Repo for the Cloud Natvie Barcelona talks
 
 ## Cloud Native and GitOps (April 2019)
 
-| Code | http://rael.dev/GitOps-talk  |
-| Event | https://www.meetup.com/Cloud-Native-Barcelona/events/260224164/ |
+| Resource | Link                                                                             |
+| -------- | -------------------------------------------------------------------------------- |
+| Code     | http://rael.dev/GitOps-talk                                                      |
+| Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/260224164/                  |
 
 ## Kubernetes Study Jam (April 2019)
 
