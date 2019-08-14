@@ -14,7 +14,7 @@ Repo for the Cloud Natvie Barcelona talks
 | Slides   | http://go.rael.dev/cnbcn-git-head                               |
 | Event    | https://www.meetup.com/Cloud-Native-Barcelona/events/263045000/ |
 
-## Inclusivity and diversity at CNCF (June 2019)
+## Diversion and inclusion at CNCF (June 2019)
 
 | Resource | Link                                                            |
 | -------- | --------------------------------------------------------------- |
